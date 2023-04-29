@@ -1,5 +1,5 @@
 
-package Lab6;
+package Lab6_Code;
 
 public class EmptyAutosarFileException extends RuntimeException {
     

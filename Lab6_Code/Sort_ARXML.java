@@ -1,4 +1,4 @@
-package Lab6;
+package Lab6_Code;
 
 import java.io.*;
 import java.util.*;
@@ -48,6 +48,7 @@ public class Sort_ARXML {
                 }
                 output.write("</AUTOSAR>");
                 output.close();
+                System.out.println("No Errors: The new ARXML file is created");
              
              }
         }
